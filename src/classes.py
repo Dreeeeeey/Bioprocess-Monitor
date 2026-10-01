@@ -71,7 +71,7 @@ class BioprocessMonitor:
 
         fig, axes = plt.subplots(nrows=2, ncols=2, figsize=(8, 6), dpi=600, layout="constrained")
 
-        # top right
+        # top left
 
         conc_columns = ["C_glucose_g_L^-1", "C_biomass_g_L^-1", "C_product_g_L^-1"]  # adjust names as needed
         for i, col in enumerate(conc_columns):
