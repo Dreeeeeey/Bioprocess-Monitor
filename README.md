@@ -16,9 +16,9 @@ The goal of this project was to develop an automated utility class (`BioprocessM
 
 ## Technologies Used
 
-* **Python** (v3.14)
-* **pandas** (v2.2.3) – For data manipulation, batch indexing, boolean mask operations, and CSV summary exports.
-* **matplotlib** (v3.10.0) – To create multi-panel dashboard visualization generation and custom styling.
+* **Python** (v3.14.7)
+* **pandas** (v3.0.6) 
+* **matplotlib** (v3.11.2) 
 
 ## Code Design
 
